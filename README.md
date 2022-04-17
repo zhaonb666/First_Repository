@@ -49,3 +49,8 @@ pubg|108|12
 #### 超链接
 [bilibili](http://www.bilibili.com "点击访问网站")
 
+
+####图片
+
+![截图](C://Users//22339//Desktop//666.png "点击图片")
+
